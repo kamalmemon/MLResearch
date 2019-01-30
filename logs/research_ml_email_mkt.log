@@ -1,0 +1,3 @@
+2019-01-30 22:23:40,425 - b4c1a651-78a7-4f47-b446-e9615973811d - research_ml_email_mkt - <ipython-input-1-79258fd411e3> - INFO - Starting optimization...
+2019-01-30 22:23:43,135 - b4c1a651-78a7-4f47-b446-e9615973811d - research_ml_email_mkt - <ipython-input-1-79258fd411e3> - INFO - new best:0.7405096074162053 using: knn
+2019-01-30 22:23:43,138 - b4c1a651-78a7-4f47-b446-e9615973811d - research_ml_email_mkt - <ipython-input-1-79258fd411e3> - INFO - iters: 1, acc: 0.7405096074162053 using: {'n_neighbors': 8, 'type': 'knn'}
